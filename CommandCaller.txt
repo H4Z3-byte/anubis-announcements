@@ -1,4 +1,1 @@
-# CommandCaller
-# scrivi qui il comando da eseguire (senza /), es: home
-# per rieseguire lo stesso comando aggiungi #2 in fondo: home #2
-# svuota il file per disattivare
+home
